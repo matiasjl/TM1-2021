@@ -1,4 +1,4 @@
-Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
+Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2021.
 
 > CLASE 03: Dibujo y color avanzado
 
