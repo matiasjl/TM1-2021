@@ -1,6 +1,6 @@
 Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2021.
 
-> CLASE 07: Módulo 3 - Animación NO lineal
+> CLASE 08: Módulo 3 - Animación NO lineal
 
 Temas:
 - Aplicando condicionales
