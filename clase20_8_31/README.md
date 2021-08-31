@@ -13,11 +13,11 @@ Temas:
 - - concepto de REUTILIZACIÓN (clave);
 - - [aquí](https://docs.google.com/presentation/d/1-6lqBAVZji4Wv9-FosZS7yhF8CU2XxJJtCUTq4K4UQc/edit?usp=sharing) pueden acceder al powerpoint de la presentacion;
 - Tipos de Funciones:
-- Funciones de dibujo (tipo void: no devuelve valor);
-- Funciones matemáticas (con o sin return: devuelven o no valor);
+- - Funciones de dibujo (tipo void: no devuelve valor);
+- - Funciones matemáticas (con o sin return: devuelven o no valor);
 
 Tareas:
-- [Pre-entrega TP4](http://www.colaboratorio3.org/mod/forum/discuss.php?d=722): entregar la idea y el diagrama de estados ~ mapa de navegación;
+- [Pre-entrega TP4](http://www.colaboratorio3.org/mod/forum/discuss.php?d=722): entregar la idea y el diagrama de estados;
 - - Fecha límite de entrega: domingo 5/12;
 - [DESAFÍO #5](http://www.colaboratorio3.org/mod/forum/discuss.php?d=723): realizar una función de dibujo compleja;
 - - Fecha límite de entrega: domingo 12/5;
