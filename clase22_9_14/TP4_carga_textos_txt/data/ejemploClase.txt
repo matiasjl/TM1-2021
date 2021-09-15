@@ -1,0 +1,7 @@
+¡Hola! este es un ejemplo para la clase de Tecno Multimedial 1
+Es un array de textos cargados desde un txt
+Las cantidad de lineas se carga automáticamente con el archivo
+Lo único que hay que hacer es poner un salto de linea
+Es decir, apretar enter dentro del editor del txt (bloc de notas) :)
+¡Saludos!
+(Apreta la r para reiniciar) 
