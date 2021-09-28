@@ -11,9 +11,9 @@ Temas:
 - - ejercicio colectivo: [clase MarioBros](https://board.net/p/tmm1mariobros21);
 - - [infografía con gatitos](https://teloexplicocongatitos.com/poster/tlecg07) de POO;
 - - [grabación](https://drive.google.com/drive/folders/1XuPNEQgPNyl9yenishNWB5I_SyPdDI53?usp=sharing) de primer clase de POO;
-- - programación de clase Muneco:
-- - - [ejemplo22a](): con programación procedimental o estructurada;
-- - - [ejemplo22b](): con programación orientada a Objetos;
+- Programación de clase Muneco:
+- - [ejemplo23a](https://github.com/matiasjl/TM1-2021/tree/main/clase23_9_28/clase23a_muneco_procedural): con programación procedimental o estructurada;
+- - [ejemplo23b](https://github.com/matiasjl/TM1-2021/tree/main/clase23_9_28/clase23b_muneco_objetos): con programación orientada a Objetos;
 
 Tareas:
 - [DESAFÍO #6](http://www.colaboratorio3.org/mod/forum/discuss.php?d=748): planificar y programar una Clase (hasta el domingo 3/Octubre inclusive);
