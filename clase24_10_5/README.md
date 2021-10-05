@@ -1,6 +1,6 @@
-Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
+Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2021.
 
-> CLASE 23: Programación Orientada a Objetos
+> CLASE 24: Programación Orientada a Objetos
 
 Temas:
 
