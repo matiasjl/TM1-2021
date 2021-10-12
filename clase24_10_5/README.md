@@ -1,6 +1,6 @@
-Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2020.
+Tecnología multimedial 1 - comisión 2 Matias. Facultad de Artes, UNLP, 2021.
 
-> CLASE 23: Programación Orientada a Objetos
+> CLASE 24: Programación Orientada a Objetos
 
 Temas:
 
@@ -9,8 +9,8 @@ Temas:
 - - [teórico en video](https://www.youtube.com/watch?v=jSPI17rgl4Y&t=3s&ab_channel=AirRoom) de soporte x AIR ROOM;
 - - [grabación](https://drive.google.com/file/d/114fXRjlOsYkOl_aqzHMHM1zgWJPIV4jx/view?usp=sharing) de la clase;
 - - programación de clase Copo:
-- - - [ejemplo23a](https://github.com/matiasjl/TM1-2020/tree/master/clase23_9_29/clase23a_copo_procedural): con programación procedimental o estructurada;
-- - - [ejemplo23b](https://github.com/matiasjl/TM1-2020/tree/master/clase23_9_29/clase23b_copo_con_objetos): con programación orientada a Objetos;
+- - - [ejemplo24a](https://github.com/matiasjl/TM1-2021/tree/main/clase24_10_5/clase24a_copo_procedural): con programación procedimental o estructurada;
+- - - [ejemplo24b](https://github.com/matiasjl/TM1-2021/tree/main/clase24_10_5/clase24b_copo_objetos): con programación orientada a Objetos;
 - - [NUEVO CONTENIDO DIFERIDO: FUNCIONES](https://www.youtube.com/playlist?list=PL5XsWPyKtzj73SbqD3JcqWm8iN1eI-3_Q), ideal para repasar el tema :D
 - - [Processing 20 años](https://processingfoundation.org/advocacy/pcd-2021): varias formas de participar :D
 
