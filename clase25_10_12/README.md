@@ -6,7 +6,7 @@ Temas:
 
 - HOY: ARREGLO DE OBJETOS!;
 - - [presentación](https://docs.google.com/presentation/d/1-FcJrU6FfMP53k-2t5O4joxYO7ZfoT3RMosaUaHDEtQ/edit?usp=sharing) del contenido;
-- - [grabación]() de la clase;
+- - [grabación]() de la clase; --> PENDIENTE, FALLÓ COMPRESIÓN DEL WEBEX
 - - programación a partir de clase Copo:
 - - - [ejemplo25a](https://github.com/matiasjl/TM1-2020/tree/master/clase25_10_12/clase25a_copos_arreglos_de_objetos): arreglo de objetos para simular 'nevada';
 - - - [ejemplo25b](https://github.com/matiasjl/TM1-2020/tree/master/clase25_10_12/clase25b_funcion_con_arreglo_como_param): arreglo de objetos como parámetro de una función;
