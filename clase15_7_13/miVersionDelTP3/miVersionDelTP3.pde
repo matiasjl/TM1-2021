@@ -75,6 +75,9 @@ void keyPressed() {
     c2 = color (0 );
     vel = 600;
   }
+  if( key == 's' ){
+    saveFrame();
+  }
 }
 
 void mouseMoved() {
