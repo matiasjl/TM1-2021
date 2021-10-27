@@ -11,5 +11,5 @@ Temas:
 
 
 Tareas:
-- Entregar [TP5](http://www.colaboratorio3.org/mod/assign/view.php?id=503);
+- Entregar [TP5](http://www.colaboratorio3.org/mod/assign/view.php?id=503) (por favor, entreguen en primera instancia);
 - Delinear TP Final (la semana que viene comenzamos seguimiento personzalizado).
