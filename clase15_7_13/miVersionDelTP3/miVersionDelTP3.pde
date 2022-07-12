@@ -76,7 +76,8 @@ void keyPressed() {
     vel = 600;
   }
   if( key == 's' ){
-    saveFrame();
+    //saveFrame();
+    saveFrame("round2-####.png");
   }
 }
 
